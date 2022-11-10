@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gh0stmodernism
+- 👀 I’m interested in memories, mental health, and sharing experiences that better our world
+- 🌱 I’m currently learning how to build and deploy clean + beautiful websites 
+- 💞️ I'm currently not looking to collaborate, but check back once I finish my project
+- 📫 How to reach me: DM me on github
